@@ -4,6 +4,8 @@
 This project analyzes a dataset of movie critic reviews to uncover insights into sentiment trends, influential critics, and publication behavior. By leveraging Python for data processing, MySQL for querying, and Power BI for visualization, the project delivers actionable insights into how movies are reviewed across time and by different critics and publications.
 
 ---
+![image alt](Preview.PNG)
+---
 
 ## **Objectives**
 The primary goals of this project are:
