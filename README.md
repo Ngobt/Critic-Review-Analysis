@@ -92,14 +92,12 @@ The primary goals of this project are:
    - Use MySQL to run queries and generate insights:
      - Trends in sentiment (`fresh` vs. `rotten`).
      - Average scores by publication or critic.
-     - Most polarizing movies.
 
 3. **Visualization**:
    - Import cleaned data into Power BI.
    - Create dashboards for:
      - Sentiment trends over time.
      - Influential critics and publications.
-     - Movie-specific insights.
 
 ---
 
@@ -124,7 +122,7 @@ This project provides valuable insights into movie reviews, showcasing how criti
 
 ## **Contact**
 For questions or feedback, feel free to reach out via:
-- GitHub: https://ngobt.github.io/portfolio/
+- GitHub: https://ngobt.github.io
 - LinkedIn: https://www.linkedin.com/in/brandonngo24/
 
 ---
